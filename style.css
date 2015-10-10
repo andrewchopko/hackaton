@@ -1,0 +1,70 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,700,900);
+
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background: #000;
+    color: #fff;
+    font-family: 'Roboto', sans-serif; 
+}
+
+.block{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 50%;
+    display: flex;
+}
+
+.hospital{
+    margin: 0;
+    padding: 0;
+    width: 455px;
+    height: 100%;
+}
+
+#h1{
+    background: url("http://www.vmr.gov.ua/Branches/ContentLibrary/e7bea71a-b1df-4249-9685-b0c4c42f8e7a/2/IMG_0199.JPG") center center no-repeat;
+    background-size: cover;
+}
+
+#h2{
+    background: url("http://ilikenews.com/sites/default/files/field/image/pozhb1.jpg") center center no-repeat;
+    background-size: cover;
+}
+
+#h3{
+    background: url("http://mkl3.vn.ua/wp-content/uploads/2013/09/IMG_4945-e1383244736833.jpg") center center no-repeat;
+    background-size: cover;
+}
+
+#pirohova{
+    background: url("http://vokl.org/sites/default/files/mainphoto.jpg") center center no-repeat;
+    background-size: cover;
+}
+
+#hchildrens{
+    background: url("http://www.vinnitsa.info/images/mod_news_for_content/04-lorotdelenie_03.JPG") center center no-repeat;
+    background-size: cover;
+}
+
+#dantist{
+    background: url("%D0%9C%D0%9A%D0%A1%D0%9F.JPG") center center no-repeat;
+    background-size: cover;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+p{
+    padding-top: 235.9px;
+    padding-bottom: 24px;
+    text-align: center;
+    background: rgba(87, 87, 87, 0.5);
+    margin: 0;
+    font-size: 30px;
+    font-weight: 600;
+}

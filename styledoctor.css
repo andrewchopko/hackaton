@@ -1,0 +1,176 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,700,900);
+
+body {
+  left: 0;
+  margin: 0;
+  position: relative;
+  font-family: 'Roboto', sans-serif;
+  color: #000;
+}
+
+
+
+.menu {
+  background: #919191 repeat left top;
+  left: -285px;
+  height: 100%;
+  position: fixed;
+  width: 285px;
+}
+
+.jumbotron {
+  background:#f5f5f5; 
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
+}
+
+.menu ul {
+  border-top: 1px solid #636366;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  border-bottom: 1px solid #636366;
+  font-family: 'Roboto', sans-serif;
+  line-height: 45px;
+  padding-bottom: 3px;
+  padding-left: 20px;
+  padding-top: 3px;
+}
+
+.menu a {
+  color: #fff;
+  font-size: 15px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.icon-close {
+  cursor: pointer;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+    font-size: 30px;
+    color: #fff;
+}
+
+.icon-menu {
+  color: #000;
+  cursor: pointer;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  padding-bottom: 25px;
+  padding-left: 25px;
+  padding-top: 25px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.icon-menu i {
+  margin-right: 5px;
+}
+
+.jumbotron{
+    color: #000;
+}
+
+.content{
+    text-align: left;
+}
+
+.content h1{
+    padding: 60px 40px;
+    background: url('http://altushealthsystem.com/wp-content/uploads/ngg_featured/Banners_2000x600_hospital.jpg') center center no-repeat;
+    color: #636366;
+    text-align: center;
+}
+
+form{
+    text-align: left;
+    margin: 50px 70px;
+    margin-bottom: 0;
+    padding-bottom: 50px;
+    font-size: 20px;
+}
+
+.content h2{
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.btn{
+    border: 0;
+    color: #fff;
+    border-radius: 5px;
+    background: red;
+    padding: 5px 10px;
+}
+
+.content img{
+    height: 400px;
+    width: 400px;
+    margin: 50px 50px;
+}
+
+.hill{
+    display: flex;
+    padding-bottom: 50px;
+}
+
+.hill p{
+    width: 300px;
+}
+
+table{
+    width: 80%;
+}
+
+.enter{
+    text-align: center;
+    padding-bottom: 84px;
+}
+
+.enterplace{
+    width: 350px;
+}
+
+.name_doctor {
+    border: solid 0.1em black;
+    border-radius: 10px;
+    background-color: #e3e3e3;
+    margin:5px 10px;
+    width: 30%;
+}
+
+.name_doctor h2 {
+  text-align: left;
+  font-size: 2rem;
+  color:#178171;
+  margin:0px;
+  padding:15px; 
+}
+
+.name_doctor .name {
+  border-bottom: 1px solid black;
+  border-radius: 10px 10px 0 0;
+  background-color: #e3e3e3;
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+
+.name_doctor .description_doctor {
+  padding: 10px;
+  background-color: #f5f5f5;
+  margin:0;
+  border-radius: 0 0 10px 10px;
+  font-size: .9rem;
+}
+
+.name_doctor .description_doctor a{
+  float:right;
+  color: 
+}
